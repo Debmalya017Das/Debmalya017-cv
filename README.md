@@ -1,1 +1,1 @@
-# web dev boorcamp cv
+# web dev bootcamp cv
